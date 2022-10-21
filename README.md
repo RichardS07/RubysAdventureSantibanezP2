@@ -1,2 +1,3 @@
 # RubysAdventureSantibanezP2
-This is the repository for the Ruby adventure
+This is the repository for the Ruby adventure project
+This repository will be using Unity version 2021.3.8f1
