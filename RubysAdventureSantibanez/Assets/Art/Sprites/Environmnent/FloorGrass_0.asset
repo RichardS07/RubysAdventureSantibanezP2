@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: FloorGrass_0
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 1538339849, guid: c200d76d65198564f9aa80e0d41ca8a2, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9622642, g: 0.9622642, b: 0.9622642, a: 1}
   m_Transform:
     e00: 1
     e01: 0
@@ -33,4 +33,4 @@ MonoBehaviour:
     e33: 1
   m_InstancedGameObject: {fileID: 0}
   m_Flags: 1
-  m_ColliderType: 1
+  m_ColliderType: 0
