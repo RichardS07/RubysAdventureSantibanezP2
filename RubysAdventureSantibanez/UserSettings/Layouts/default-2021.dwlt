@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 350}
   m_MaxSize: {x: 10000, y: 10000}
@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 61
+  controlID: 71
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 60
+  controlID: 120
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,8 +246,8 @@ MonoBehaviour:
     y: 0
     width: 387
     height: 947
-  m_MinSize: {x: 275, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 17}
@@ -485,7 +485,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 0
-      snapOffset: {x: 0, y: 0}
+      snapOffset: {x: 0, y: 25}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Particles
@@ -501,9 +501,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -159.51105, y: 1.781055, z: -5.384108}
+    m_Target: {x: 201.42346, y: 516.81085, z: 2.2567286}
     speed: 2
-    m_Value: {x: -159.51105, y: 1.781055, z: -5.384108}
+    m_Value: {x: 213.87953, y: 516.328, z: 2.3234541}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -554,9 +554,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 13.430953
+    m_Target: 154.9502
     speed: 2
-    m_Value: 13.430953
+    m_Value: 148.2777
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -611,10 +611,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 4519}
+      scrollPos: {x: 0, y: 3783}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 0efbffff26fbffff945f000032600000bc60000028610000886100001c620000406200005e62000082620000ac620000a2630000d26300001a640000c2640000ec640000066600003c660000626700007a6700005e680000
+      m_ExpandedIDs: 26a5feff0afbffff9862000038630000be6300000a6500008a6700007e680000846a0000cc6a0000226c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -886,33 +886,33 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Art/Sprites/VFX
+    - Assets/Art/Sprites/UI
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 74
   m_LastFolders:
-  - Assets/Art/Sprites/VFX
+  - Assets/Art/Sprites/UI
   m_LastFoldersGridSize: 74
   m_LastProjectPath: C:\Users\755791\Documents\Unity\GitHub\RubysAdventureSantibanezP2\RubysAdventureSantibanez
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 89}
-    m_SelectedIDs: dc6a0000
-    m_LastClickedID: 27356
-    m_ExpandedIDs: 00000000b66a0000b86a0000ba6a0000c66a000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 786e0000
+    m_LastClickedID: 28280
+    m_ExpandedIDs: 000000004c6e00004e6e0000506e0000646e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Player
-      m_OriginalName: Player
+      m_Name: Scenes
+      m_OriginalName: Scenes
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 27350
+      m_UserData: 28268
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -929,7 +929,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b66a0000b86a0000ba6a0000
+    m_ExpandedIDs: 000000004c6e00004e6e0000506e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -957,7 +957,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000166100001a6100001e610000226100002661000012610000326100003e610000f2600000f6600000fa600000d462000082600000626000009e6000006e600000766000007a6000007e60000086600000ae600000aa600000a6600000a26000009a60000096600000926000006a600000d46000001c630000fe5f000008600000f860000000610000fc5f0000f060000004600000d6650000a46100006c62000090610000986100008c610000dc6500008e6100007e6200000462000008620000fc6500008a66000096660000a2660000ae6600009a610000a66500008662000096620000d26500009e620000dc6600007c620000646300007067000078670000e8620000f462000076640000f262000048650000e6630000306600009263000090630000d06400008663000084630000826300009c63000094630000cc640000c664000088630000e8640000a4630000e064000062650000686500007663000098630000d4640000ea650000f065000006660000d0680000c8680000ce680000a8690000a0680000306a0000b8680000c2680000c6680000c4680000d66800003669000038690000cc6a0000c46a0000246900003c6900003e6a000042690000a6690000207500007869000044b900004e6b0000
+    m_ExpandedInstanceIDs: c6230000166100001a6100001e610000226100002661000012610000326100003e610000f2600000f6600000fa600000d462000082600000626000009e6000006e600000766000007a6000007e60000086600000ae600000aa600000a6600000a26000009a60000096600000926000006a600000d46000001c630000fe5f000008600000f860000000610000fc5f0000f060000004600000d6650000a46100006c62000090610000986100008c610000dc6500008e6100007e6200000462000008620000fc6500008a66000096660000a2660000ae6600009a610000a66500008662000096620000d26500009e620000dc6600007c620000646300007067000078670000e8620000f462000076640000f262000048650000e6630000306600009263000090630000d06400008663000084630000826300009c63000094630000cc640000c664000088630000e8640000a4630000e064000062650000686500007663000098630000d4640000ea650000f065000006660000d0680000c8680000ce680000a8690000a0680000306a0000b8680000c2680000c6680000c4680000d66800003669000038690000cc6a0000c46a0000246900003c6900003e6a000042690000a6690000207500007869000044b900004e6b0000806e000050e20000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
