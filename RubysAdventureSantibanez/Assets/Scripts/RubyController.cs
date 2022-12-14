@@ -34,7 +34,7 @@ public class RubyController : MonoBehaviour
         rigidbody2d = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
 
-        currentHealth = 4;
+        currentHealth = maxHealth;
 
         audioSource = GetComponent<AudioSource>();
     }
